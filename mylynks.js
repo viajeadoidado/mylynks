@@ -4,17 +4,17 @@ mylynks = {
     codigo: '13021986',
     titulo: {
       linkDaSuaFoto: '',//Coloque aqui o link da sua foto ou da sua empresa no insta ou facebook
-      seuNome: 'Seu nome ou do seu negócio',
+      seuNome: 'Viaje Adoidado você tbem',
       tamanhoTexto: 30,
-      corTexto: ''
+      corTexto: 'white'
     },
     fundo: {
-      cor: "Lavender"
+      cor: "black"
     },
     botoes:
       [        
       {
-          textoDoBotao: "Coloque aqui o nome do seu link", 
+          textoDoBotao: "Faça agora a sua cotação", 
           linkDoBotao: "Coloque aqui o seu link",
           corDoBotao: "white",
           corDaLetra: "", 
@@ -36,7 +36,7 @@ mylynks = {
       [
         {
           nome: 'facebook',
-          link: 'Coloque aqui o link do seu facebook',
+          link: 'Www.facebook.com.br/viajeadoidado',
           imagem: 'https://wsribeiro5.github.io/wellyngtonsampaio.github.io/facebook.png'
         },
         {
